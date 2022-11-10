@@ -59,3 +59,18 @@ header {
     padding-top: 5px;
 }
 
+a:hover {
+    background-color: #e53171;
+    color: black ;
+    border: 2px solid black;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 10px;
+    text-decoration: none;
+    cursor: wait;
+}
+
+#credits {
+    width: 100%;
+    text-align: center;
+}
